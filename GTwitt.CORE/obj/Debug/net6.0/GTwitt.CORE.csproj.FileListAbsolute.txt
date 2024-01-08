@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.deps.json
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.runtimeconfig.json
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.dll
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.pdb
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.AssemblyInfo.cs
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.dll
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\refint\GTwitt.CORE.dll
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.pdb
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.genruntimeconfig.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\ref\GTwitt.CORE.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.deps.json
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\bin\Debug\net6.0\GTwitt.CORE.pdb
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\refint\GTwitt.CORE.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.pdb
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\GTwitt.CORE.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.CORE\obj\Debug\net6.0\ref\GTwitt.CORE.dll

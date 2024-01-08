@@ -1,0 +1,34 @@
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.deps.json
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.runtimeconfig.json
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.dll
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.pdb
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.CORE.dll
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.CORE.pdb
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.AssemblyInfo.cs
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.csproj.CopyComplete
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.dll
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\refint\GTwitt.DAL.dll
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.pdb
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.genruntimeconfig.cache
+C:\Users\user\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\ref\GTwitt.DAL.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.deps.json
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.DAL.pdb
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.CORE.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\bin\Debug\net6.0\GTwitt.CORE.pdb
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.csproj.CopyComplete
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\refint\GTwitt.DAL.dll
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.pdb
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\GTwitt.DAL.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\GTwitt\GTwitt.DAL\obj\Debug\net6.0\ref\GTwitt.DAL.dll

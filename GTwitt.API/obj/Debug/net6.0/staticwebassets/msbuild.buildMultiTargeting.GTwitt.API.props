@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GTwitt.API.props" />
+</Project>
