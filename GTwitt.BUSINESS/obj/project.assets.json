@@ -2413,11 +2413,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Birinci novbe\\Desktop\\GTwitt\\GTwitt.BUSINESS\\GTwitt.BUSINESS.csproj",
+      "projectUniqueName": "C:\\Users\\Birinci novbe\\Desktop\\BlogApiTwitter\\GTwitt.BUSINESS\\GTwitt.BUSINESS.csproj",
       "projectName": "GTwitt.BUSINESS",
-      "projectPath": "C:\\Users\\Birinci novbe\\Desktop\\GTwitt\\GTwitt.BUSINESS\\GTwitt.BUSINESS.csproj",
+      "projectPath": "C:\\Users\\Birinci novbe\\Desktop\\BlogApiTwitter\\GTwitt.BUSINESS\\GTwitt.BUSINESS.csproj",
       "packagesPath": "C:\\Users\\Birinci novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Birinci novbe\\Desktop\\GTwitt\\GTwitt.BUSINESS\\obj\\",
+      "outputPath": "C:\\Users\\Birinci novbe\\Desktop\\BlogApiTwitter\\GTwitt.BUSINESS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2439,8 +2439,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Birinci novbe\\Desktop\\GTwitt\\GTwitt.DAL\\GTwitt.DAL.csproj": {
-              "projectPath": "C:\\Users\\Birinci novbe\\Desktop\\GTwitt\\GTwitt.DAL\\GTwitt.DAL.csproj"
+            "C:\\Users\\Birinci novbe\\Desktop\\BlogApiTwitter\\GTwitt.DAL\\GTwitt.DAL.csproj": {
+              "projectPath": "C:\\Users\\Birinci novbe\\Desktop\\BlogApiTwitter\\GTwitt.DAL\\GTwitt.DAL.csproj"
             }
           }
         }

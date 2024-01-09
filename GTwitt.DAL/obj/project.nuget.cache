@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbV9uYNQ+AwrymCZTMAPfcqTH9LUXb0tejA9qgvkdxSapxatSlHTk0DrKeammiEOcmHo+jW4ZLHoqQ2HGWiEOg==",
+  "dgSpecHash": "Zvcd0segu+Sfx7fuYwx6DLHuGpnTVLGuHj7XRmH9RgJ3tJytBN8GMyxe4NAzQPskF62GtBNKEiKtZLGGGRejRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Birinci novbe\\Desktop\\GTwitt\\GTwitt.DAL\\GTwitt.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Birinci novbe\\Desktop\\BlogApiTwitter\\GTwitt.DAL\\GTwitt.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Birinci novbe\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Birinci novbe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

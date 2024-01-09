@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fHXZu7Rx70SIJWsfkgBU5D9ekzNcuoOi1u11YI6z6apqqpDmdOwqNEdgR1RmibKW0uMiaJH2rNbU0kJoUvuJA==",
+  "dgSpecHash": "Wlv97aQMDROwQR9AoFUIiuwTLMMsCxl5EG6u6gVgj0jnDw71gwaRQf/8qrMQvH6+33ANsqUeIHGbd/ZKzer0QQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Birinci novbe\\Desktop\\GTwitt\\GTwitt.BUSINESS\\GTwitt.BUSINESS.csproj",
+  "projectFilePath": "C:\\Users\\Birinci novbe\\Desktop\\BlogApiTwitter\\GTwitt.BUSINESS\\GTwitt.BUSINESS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Birinci novbe\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Birinci novbe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
